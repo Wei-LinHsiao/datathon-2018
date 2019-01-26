@@ -1,0 +1,12 @@
+name: houston-demolition
+title: houston-demolition
+username:
+account: weilinhsiao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 667793
+bundleId: 1838802
+url: https://weilinhsiao.shinyapps.io/houston-demolition/
+when: 1548533571.72316
+asMultiple: FALSE
+asStatic: FALSE

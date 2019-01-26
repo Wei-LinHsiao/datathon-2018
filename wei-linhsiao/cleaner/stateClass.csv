@@ -1,0 +1,123 @@
+Code,Description
+1D,"Real, Qualified Agricultural Land"
+1D1,"Real, Qualified Agricultural Land"
+A1,"Real, Residential, Single-Family"
+A2,"Real, Residential, Mobile Homes"
+A3,"Real, Residential, Auxiliary Buildings"
+A4,"Real, Residential, 1/2 Duplex"
+B1,"Real, Residential, Multi-Family"
+B2,"Real, Residential, Two-Family"
+B3,"Real, Residential, Three-Family"
+B4,"Real, Residential, Four- or More-Family"
+C1,"Real, Vacant Lots/Tracts (In City)"
+C2,"Real, Vacant Commercial"
+C3,"Real, Vacant Lots/Tracts (Not in City)"
+D2,"Real, Unqualified Agricultural Land"
+E1,"Real, Farm & Ranch Improved"
+F1,"Real, Commercial"
+F2,"Real, Industrial"
+HH,Subdivision Header
+J1,"Real & Tangible Personal, Utility Water Systems"
+J2,Gas Companies
+J3,Electric Companies
+J4,Telephone Companies
+J5,Railroads
+J6,Pipelines
+M3,Personal Prop. Mobile Home
+O1,Inventory Vacant
+O2,Inventory Improved
+TMBR,"Real, Qualified Agricultural Land"
+U0,Unknown
+X1,Other Exempt (Government)
+X2,Other Exempt (Charitable)
+X3,Other Exempt (Religious)
+X4,Other Exempt (Cemetery)
+X7,Other Exempt (Historical)
+XA,Public Property for Housing Indigent Persons
+XB,Income Producing Personal Property (<$500)
+XC,Mineral Interest (<$500)
+XD,Improving Property for Housing w/ Volunteer Labor
+XE,Community Housing Development Organizations
+XF,Assisting Ambulatory Health Care Centers
+XG,Primarily Performing Charitable Functions
+XH,Developing Model Colonia Subdivisions
+XI,"Youth Spiritual, Mental and Physical Development"
+XJ,Private Schools
+XL,Economic Development Services to Local Community
+XM,Marine Cargo Containers
+XN,Motor Vehicles Leased for Personal Use
+XO,Moter Vehicles for Income Production and Personal Use
+XP,Offshore Drilling Equipment Not In Use
+XQ,Intracoastal Waterway Dredge Disposal Site
+XR,Nonprofit Water or Wastewater Corporations
+XS,Raw Cocoa and Green Coffee Held in Harris County
+XT,Limitation on Taxes in Certain Municipalities
+XU,Miscellaneous Exemptions
+XV,"Other Exempt (Incl Public, Religious, Charitable)"
+Z0,Condo - Without Improvements
+Z1,Condo - Apartment Conversion
+Z2,Condo - Fee Simple Townhouse
+Z3,Condo - Townhouse (2+ stories)
+Z4,Condo - Apartment Style
+Z5,Condo - High Rise
+D1,"Real, Qualified Agricultural Land"
+D1,"Real, Qualified Agricultural Land"
+A1,"Real, Residential, Single-Family"
+A2,"Real, Residential, Mobile Homes"
+A1,"Real, Residential, Auxiliary Buildings"
+A1,"Real, Residential, 1/2 Duplex"
+B1,"Real, Residential, Multi-Family"
+B2,"Real, Residential, Two-Family"
+B3,"Real, Residential, Three-Family"
+B4,"Real, Residential, Four- or More-Family"
+C1,"Real, Vacant Lots/Tracts (In City)"
+C2,"Real, Vacant Commercial"
+C3,"Real, Vacant Lots/Tracts (Not in City)"
+D2,"Real, Unqualified Agricultural Land"
+E1,"Real, Farm & Ranch Improved"
+F1,"Real, Commercial"
+F2,"Real, Industrial"
+PT,Subdivision Header
+J1,"Real & Tangible Personal, Utility Water Systems"
+J2,Gas Companies
+J3,Electric Companies
+J4,Telephone Companies
+J5,Railroads
+J6,Pipelines
+M3,Personal Prop. Mobile Home
+O1,Inventory Vacant
+O2,Inventory Improved
+D1,"Real, Qualified Agricultural Land"
+U0,Unknown
+XV,Other Exempt (Government)
+XV,Other Exempt (Charitable)
+XV,Other Exempt (Religious)
+XV,Other Exempt (Cemetery)
+XV,Other Exempt (Historical)
+XA ÿ,Public Property for Housing Indigent Persons
+XB,Income Producing Personal Property (<$500)
+XC,Mineral Interest (<$500)
+XD ÿ,Improving Property for Housing w/ Volunteer Labor
+XE ÿ,Community Housing Development Organizations
+XF ÿ,Assisting Ambulatory Health Care Centers
+XG ÿ,Primarily Performing Charitable Functions
+XH ÿ,Developing Model Colonia Subdivisions
+XI ÿ,"Youth Spiritual, Mental and Physical Development"
+XJ ÿ,Private Schools
+XL ÿ,Economic Development Services to Local Community
+XM ÿ,Marine Cargo Containers
+XN,Motor Vehicles Leased for Personal Use
+XO,Moter Vehicles for Income Production and Personal Use
+XP ÿ,Offshore Drilling Equipment Not In Use
+XQ ÿ,Intracoastal Waterway Dredge Disposal Site
+XR ÿ,Nonprofit Water or Wastewater Corporations
+XS,Raw Cocoa and Green Coffee Held in Harris County
+XT ÿ,Limitation on Taxes in Certain Municipalities
+XU ÿ,Miscellaneous Exemptions
+XV ÿ,"Other Exempt (Incl Public, Religious, Charitable)"
+C1,Condo - Without Improvements
+A1,Condo - Apartment Conversion
+A1,Condo - Fee Simple Townhouse
+A1,Condo - Townhouse (2+ stories)
+A1,Condo - Apartment Style
+A1,Condo - High Rise

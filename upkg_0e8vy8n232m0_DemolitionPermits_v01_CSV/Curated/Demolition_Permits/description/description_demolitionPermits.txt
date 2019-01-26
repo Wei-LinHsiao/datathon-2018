@@ -1,0 +1,8 @@
+This dataset contains two tables: 
+
+1. permits_demolition_20052015
+This is a subset of Harris County Appraisal District's 2015 "permits" table downloaded from pdata.hcad.org/download/2015.html on 3/3/2016. It contains all demolition permits (as specified by the "permitType" field) with an inspection year ("year" field) between 2005 and 2016. 
+
+2. permits_demolition_byAccount_20052015 
+This table aggregates the demolition permit information in the table desribed above by the account, HCAD's unique identifier for parcels (legally defined lots). It lists the number of residential and other demolition permits affiliated with each account, as well as the inspection years affiliated with these permits. Permits of type 13 ("Residential Demolition") are classified as residential demolitions while permits of type 33  ("Commercial Demolition") or 43 ("Demolition") are classified as other demolitions. 
+
