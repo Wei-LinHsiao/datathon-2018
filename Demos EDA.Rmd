@@ -1,0 +1,39 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(tidyr)
+library(dplyr)
+
+demo_permits <- read.csv("permits_demolition_20052015.csv")
+
+
+demo_permits.parsed <- demo_permits[rowSums(is.na(demo_permits[,11:16])) < 6L,]
+#Dropped all rows where all of the last 6 address indicators were NA
+
+#Examining number of NA values in column propertyType
+nrow(demo_permits)
+sum(is.na(demo_permits.parsed$propertyType))/nrow(demo_permits.parsed)
+#more than 98% is NA
+table(demo_permits.parsed[!is.na(demo_permits.parsed$propertyType),]$propertyType)
+#Majority of property types are R: Real Property Other, Class G2 (159)
+#27 property types are C: Pipelines, Class J6
+
+
+sum(is.na(demo_permits.parsed$sitePrefix))/nrow(demo_permits.parsed)
+#88% is NA 
+View(demo_permits.parsed[!is.na(demo_permits.parsed$sitePrefix),])
+View(demo_permits.parsed[is.na(demo_permits.parsed$sitePrefix),])
+
+#SiteType might be necessary for some data.
+sum(is.na(demo_permits.parsed$siteType))/nrow(demo_permits.parsed)
+
+
+
+
+
+```
+
